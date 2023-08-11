@@ -1,0 +1,211 @@
+@media (max-width:700px){
+    .hero-section .hero-text h2{
+        font-size: 32px;
+        padding: 0;
+        line-height: normal;
+    }
+    h2{
+        font-size: 14px;
+    }
+    .hero-section .hero-text p {
+        line-height: 20px;
+    }
+    .counter-section .counter-text span{
+        font-size: 20px;
+    }
+    .counter-section .counter-text h3{
+        font-size: 28px;
+    }
+    .card-counter-list{
+        display: inline;
+        margin: 10px;
+    }
+    .card-counter {
+        font-size: 30px;
+    }
+    .schedule-tab{
+        display: inline;
+    }
+   .pricing-col{
+    margin-bottom:50px;
+    }
+   .latest-item .li-text h5 a
+    {
+    line-height: 1.5;
+    font-size: 13px;
+    }
+    .pic{
+        margin-right: 0px;
+    }
+    .pic-text h2{
+        margin-bottom: 32px;
+    }
+    .pic-text p{
+        font-size: 16px;
+    }
+    .pic-text ul li{
+        font-size: 16px;
+    }
+    .schedule-tab .st-content .sc-text h4{
+    font-size: 20px;
+    margin-bottom: 30px;
+    }
+    .schedule-tab .nav-tabs .nav-item{
+        width: 33%;
+    }
+    .schedule-tab .st-content .sc-text{
+        padding: 30px 0 0;
+    }
+    .price-item ul li{
+    font-size: 14px;
+    }
+    .set-bg2{
+    width: 100%;
+    }
+    .set-bg3{
+    width: 100%;
+    }
+    .price-item{
+    margin-bottom: 55px;
+    }
+    .price-item .price-btn{
+    padding: 12px 35px;
+    bottom: -37px;
+    }
+    .price-item .price-btn span{
+    right: 10px;
+    left: 10px;
+    display: inline;
+    }
+    .latest-item .li-text{
+    bottom: 10px;
+    }
+    .latest-item.large-item{
+    margin-right: 0px;
+    }
+    .latest-item{
+    margin-left: 0px;
+    }
+    .cs-map iframe{
+    width: 110%;
+    }
+    .footer-text ul li{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 30px;
+    }
+    .newslatter-inner {
+    padding: 60px 20px 48px;
+}
+
+
+.header-section{
+    display: block;
+}
+.ticket{
+    display: none;
+}
+.nav-sec{
+    display: none;
+}
+.showmenu{
+    display: block;
+}
+.header-section .nav-sec .nav-list{
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50%;
+    height: 100vh;
+    background-color: white;
+}
+.header-section .nav-sec .nav-list li a{
+    padding:15px 10px;
+}
+.mbicon{
+    display: block;
+}
+.header-section{
+    padding: 20px 0;
+    background-image:linear-gradient(to right, #ee8425 0%, #f9488b 100%), linear-gradient(to right, #ee8425 0%, #f9488b 100%);
+}
+
+.section-title h2{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.comment-form input{
+    width: 120%;
+    padding-left: 12px;
+    padding-right: 2px;
+}
+.comment-form textarea{
+    width: 106%;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+}
+
+
+/*===========================End=======================*/
+
+
+@media (min-width:768px) and (max-width:991px)
+{
+.ticket{
+    display: none;
+}
+.img-res{
+    margin: -50px;
+}
+.schedule-tab .st-content .sc-pic{
+    text-align: left;
+    padding: 40px 0 0;
+}
+.schedule-tab .st-content .sc-widget {
+    padding: 30px 0;
+}
+.schedule-tab .st-content {
+    padding-left: 30px;
+}
+.counter-section .counter-text h3{
+    margin-bottom: 30px;
+}
+.schedule-tab .st-content .sc-text{
+    padding-top: 30px !important;
+    padding: 0px;
+}
+.counter-section{
+    text-align: left;
+}
+.price-item.top-rated {
+    margin-top: 57px;
+    margin-left: 57px;
+    width: 80%;
+}
+.price-item{
+    margin-top: 57px;
+    margin-left: 57px;
+    width: 80%;
+}
+.cs-map iframe{
+    width: 100%;
+}
+.latest-item.large-item {
+    height: 550px;
+    margin-right: 0;
+    margin-left: 0;
+}
+.latest-item {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.text-right{
+    display: flex;
+    justify-content: start;
+}
+.section-price{
+    margin-bottom: 0px;
+}
+}
